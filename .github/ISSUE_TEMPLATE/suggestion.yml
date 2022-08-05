@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this suggestion form!
-        If you haven't done so already, please read the [Community feedback Guideline](https://github.com/exyleio/exyleio/blob/master/plans/community-feedback.md) before submitting a suggestion.
+        If you haven't done so already, please read the [Community feedback Guideline](https://github.com/exyleio/exyleio/blob/master/fragments/community-feedback.md) before submitting a suggestion.
 
   - type: textarea
     attributes:
