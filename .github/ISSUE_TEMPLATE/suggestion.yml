@@ -1,6 +1,6 @@
 name: Suggestion
 description: Suggest your exciting idea.
-title: ""
+title: "Suggestion"
 labels: ["suggestion"]
 body:
   - type: markdown
@@ -20,8 +20,8 @@ body:
     attributes:
       label: Why?
       description: |
-      Does the suggestion solve any problem?
-      If so, what is the problem and how does your suggestion solve it?
-      If not, why should your suggestion get accepted?
+        Does the suggestion solve any problem?
+        If so, what is the problem and how does your suggestion solve it?
+        If not, why should your suggestion get accepted?
     validations:
       required: true
