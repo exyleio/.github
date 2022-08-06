@@ -11,7 +11,7 @@ body:
   - type: textarea
     attributes:
       label: Description
-      description: A quick
+      description: A quick and simple description of you suggestion.
     validations:
       required: true
 
