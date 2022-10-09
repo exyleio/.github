@@ -1,6 +1,6 @@
 name: Suggestion
 description: Suggest your exciting idea.
-labels: ["suggestion"]
+labels: ["type:suggestion"]
 body:
   - type: markdown
     attributes:
