@@ -1,1 +1,1 @@
-# [Contribution Guide](https://github.com/exyleio/exyleio/tree/master/docs/guides)
+# [Contribution Guide](https://exyleio-docs.web.app/docs/contribution-guides/common)
