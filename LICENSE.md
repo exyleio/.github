@@ -1,5 +1,8 @@
 # Exyle.io Software License Agreement
 
+Original version of this license can be found
+[here](https://github.com/exyleio/.github/blob/main/LICENSE.md).
+
 By installing, copying, or otherwise using the software or its resource
 including but not limited to the source code, images, or audio, you agree to be
 bound by the terms of this agreement.
